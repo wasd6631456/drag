@@ -1,5 +1,1 @@
-(function (w) {
-    return {
-        a: w
-    }
-})(window)
+function drag (id) {}
